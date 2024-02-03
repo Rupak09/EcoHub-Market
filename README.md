@@ -157,4 +157,4 @@ Note : Before running setup your .env as required
     MONGO_URI = 
     SECRET = 
 
-
+## Psst: This is a hackathon project, and the project is completed due to the whole team efforts. I'm happy to share our work.
