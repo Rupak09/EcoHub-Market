@@ -158,3 +158,6 @@ Note : Before running setup your .env as required
     SECRET = 
 
 ## Psst: This is a hackathon project, and the project is completed due to the whole team efforts. I'm happy to share our work.
+Docs Author - @	saiabhiramjaini
+Front-End - @ChakradharZ99, @rupak09, @vajradhar
+Back-End - @saiabhiramjaini, @abbharath601
