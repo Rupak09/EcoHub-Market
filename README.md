@@ -70,7 +70,7 @@ There will be list of innovative items which are uploaded by artisans. Users can
 
 
 *2) Cart provision and profile :*
-Usrs can also use cart option *(still not completely developed)* to order mumtiple items. Ther is a profile screen to check their details.
+Usrs can also use cart option *(still not completely developed)* to order mumtiple items. There is a profile screen to check their details.
 
 ![image](https://github.com/Bharath601/pdf-text-summarization/assets/154265845/02377fff-365b-4c3e-82be-7d194c581525)
 
@@ -158,12 +158,3 @@ Note : Before running setup your .env as required
     SECRET = 
 
 
-
-## Author
-
-- @saiabhiramjaini
-- https://github.com/saiabhiramjaini/EcoHub-Market
-
-## Feedback 
-
-If you have any feedback, please reach out me at abhiramjaini28@gmail.com
