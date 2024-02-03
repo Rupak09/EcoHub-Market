@@ -1,4 +1,3 @@
-
 'use client'
 import { FeatureThree } from '../Components/FeatureComponent'
 import { FeatureTwo } from '../Components/FeatureComponent1'
@@ -8,7 +7,7 @@ import { ExampleNavbarThree } from '../Components/NavBarPreLogin'
 import { Link } from 'react-router-dom'
 
 export function HeroThree() {
-  const docsURL = "https://github.com/Rupak09/EcoHub-Market"; // Replace with your actual documentation URL
+  const docsURL = "https://github.com/Bharath601/ecohub_market"; // Replace with your actual documentation URL
 
   return (
     <div className="relative w-full">
@@ -70,10 +69,10 @@ export function HeroThree() {
           </div>
         </div>
       </div>
-      <FeatureThree />
+      {/* <FeatureThree />
       <FeatureTwo />
-      <FeatureOne />
-      <FooterThree />
+      <FeatureOne /> */}
+      {/* <FooterThree /> */}
     </div>
   );
 }
